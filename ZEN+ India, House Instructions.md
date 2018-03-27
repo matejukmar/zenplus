@@ -17,11 +17,15 @@ Local water pump pumps the water from main community tank to the house's tank on
 
 #### Pump and switch are located under main community tank
 
+![Community Water Tank and House Pump](images/water-tank-community.jpg "Community Water Tank and House Pump")
+![House Pump Switch](images/water-switch-local-house.jpg "House Pump Switch")
 ![Water Pump and Valves](images/house-motor-switch.jpg "Water Pump and Valves")
 ![Water Pump Sockets](images/house-motor.jpg "Water Pump Sockets")
 
 ### Water Air Pressure Block
 
 Sometimes, when roof water tank is completely emptied, air gets trapped in the pipes when pumping and water will not flow from any pipe in the house (even though roof tank is full). In this case small pipe on the roof needs to be opened to release air pressure from the pipes.   
+
+![House Water Tank](images/water-tank-roof.jpg "House Water Tank")
 
 
